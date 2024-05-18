@@ -1,1 +1,0 @@
-Kode ketika diperiksa tidak ada yang error, namun ketika dijalankan, landing page Laravel tidak muncul, harusnya jika ada kesalahan kode akan muncul error atau koding yang salah, tetapi koding tidak ada yang salah.
